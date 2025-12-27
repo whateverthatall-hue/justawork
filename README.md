@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
@@ -319,7 +319,7 @@
         <div id="video1-page" class="page video-page">
             <div class="video-container">
                 <video id="video1" autoplay playsinline controls>
-                    <source src="开幕.mp4" type="video/mp4">
+                    <source src="https://justaworkplace.oss-cn-beijing.aliyuncs.com/%E5%BC%80%E5%B9%95.mp4" type="video/mp4">
                     您的浏览器不支持视频播放
                 </video>
             </div>
@@ -329,7 +329,7 @@
         <div id="video2-page" class="page video-page">
             <div class="video-container">
                 <video id="video2" autoplay playsinline controls>
-                    <source src="受命.mp4" type="video/mp4">
+                    <source src="https://justaworkplace.oss-cn-beijing.aliyuncs.com/%E5%8F%97%E5%91%BD.mp4" type="video/mp4">
                     您的浏览器不支持视频播放
                 </video>
             </div>
@@ -348,7 +348,7 @@
         <div id="video3-page" class="page video-page">
             <div class="video-container">
                 <video id="video3" autoplay playsinline controls>
-                    <source src="2-1.mp4" type="video/mp4">
+                    <source src="https://justaworkplace.oss-cn-beijing.aliyuncs.com/2-1.mp4" type="video/mp4">
                     您的浏览器不支持视频播放
                 </video>
             </div>
@@ -358,7 +358,7 @@
         <div id="video-refuse-page" class="page video-page">
             <div class="video-container">
                 <video id="video-refuse" autoplay playsinline controls>
-                    <source src="2-2.mp4" type="video/mp4">
+                    <source src="https://justaworkplace.oss-cn-beijing.aliyuncs.com/2-2.mp4" type="video/mp4">
                     您的浏览器不支持视频播放
                 </video>
             </div>
@@ -384,7 +384,7 @@
         <div id="video4-page" class="page video-page">
             <div class="video-container">
                 <video id="video4" autoplay playsinline controls>
-                    <source src="3-1.mp4" type="video/mp4">
+                    <source src="https://justaworkplace.oss-cn-beijing.aliyuncs.com/3-1.mp4" type="video/mp4">
                     您的浏览器不支持视频播放
                 </video>
             </div>
@@ -404,7 +404,7 @@
         <div id="video5-page" class="page video-page">
             <div class="video-container">
                 <video id="video5" autoplay playsinline controls>
-                    <source src="3-1-A.mp4" type="video/mp4">
+                    <source srchttps://justaworkplace.oss-cn-beijing.aliyuncs.com/3-1-A.mp43-1-A.mp4" type="video/mp4">
                     您的浏览器不支持视频播放
                 </video>
             </div>
@@ -414,7 +414,7 @@
         <div id="video6-page" class="page video-page">
             <div class="video-container">
                 <video id="video6" autoplay playsinline controls>
-                    <source src="3-1-B.mp4" type="video/mp4">
+                    <source src="https://justaworkplace.oss-cn-beijing.aliyuncs.com/3-1-B.mp4" type="video/mp4">
                     您的浏览器不支持视频播放
                 </video>
             </div>
@@ -424,7 +424,7 @@
         <div id="video7-page" class="page video-page">
             <div class="video-container">
                 <video id="video7" autoplay playsinline controls>
-                    <source src="3-1-C.mp4" type="video/mp4">
+                    <source src="https://justaworkplace.oss-cn-beijing.aliyuncs.com/3-1-C.mp4" type="video/mp4">
                     您的浏览器不支持视频播放
                 </video>
             </div>
@@ -434,7 +434,7 @@
         <div id="video8-page" class="page video-page">
             <div class="video-container">
                 <video id="video8" autoplay playsinline controls>
-                    <source src="3-2.mp4" type="video/mp4">
+                    <source src="https://justaworkplace.oss-cn-beijing.aliyuncs.com/3-2.mp4" type="video/mp4">
                     您的浏览器不支持视频播放
                 </video>
             </div>
@@ -444,7 +444,7 @@
         <div id="video9-page" class="page video-page">
             <div class="video-container">
                 <video id="video9" autoplay playsinline controls>
-                    <source src="4-1.mp4" type="video/mp4">
+                    <source src="https://justaworkplace.oss-cn-beijing.aliyuncs.com/4-1.mp4" type="video/mp4">
                     您的浏览器不支持视频播放
                 </video>
             </div>
@@ -464,7 +464,7 @@
         <div id="video10-page" class="page video-page">
             <div class="video-container">
                 <video id="video10" autoplay playsinline controls>
-                    <source src="4-2.mp4" type="video/mp4">
+                    <source src="https://justaworkplace.oss-cn-beijing.aliyuncs.com/4-2.mp4" type="video/mp4">
                     您的浏览器不支持视频播放
                 </video>
             </div>
@@ -474,7 +474,7 @@
         <div id="video11-page" class="page video-page">
             <div class="video-container">
                 <video id="video11" autoplay playsinline controls>
-                    <source src="奉献.mp4" type="video/mp4">
+                    <source src="https://justaworkplace.oss-cn-beijing.aliyuncs.com/%E5%A5%89%E7%8C%AE.mp4" type="video/mp4">
                     您的浏览器不支持视频播放
                 </video>
             </div>
@@ -493,7 +493,7 @@
         <div id="video-egg-page" class="page video-page">
             <div class="video-container">
                 <video id="video-egg" autoplay playsinline controls>
-                    <source src="结尾彩蛋.mp4" type="video/mp4">
+                    <source src="https://justaworkplace.oss-cn-beijing.aliyuncs.com/%E7%BB%93%E5%B0%BE%E5%BD%A9%E8%9B%8B.mp4" type="video/mp4">
                     您的浏览器不支持视频播放
                 </video>
             </div>
@@ -503,7 +503,7 @@
         <div id="video-no-egg-page" class="page video-page">
             <div class="video-container">
                 <video id="video-no-egg" autoplay playsinline controls>
-                    <source src="结尾 无彩蛋.mp4" type="video/mp4">
+                    <source src="https://justaworkplace.oss-cn-beijing.aliyuncs.com/%E7%BB%93%E5%B0%BE%20%E6%97%A0%E5%BD%A9%E8%9B%8B.mp4" type="video/mp4">
                     您的浏览器不支持视频播放
                 </video>
             </div>
@@ -513,7 +513,7 @@
         <div id="video-final-page" class="page video-page">
             <div class="video-container">
                 <video id="video-final" autoplay playsinline controls>
-                    <source src="最终结尾.mp4" type="video/mp4">
+                    <source src="https://justaworkplace.oss-cn-beijing.aliyuncs.com/%E6%9C%80%E7%BB%88%E7%BB%93%E5%B0%BE.mp4" type="video/mp4">
                     您的浏览器不支持视频播放
                 </video>
             </div>
