@@ -1,6 +1,4 @@
 
-[两弹一星.html](https://github.com/user-attachments/files/24234220/default.html)
-<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
