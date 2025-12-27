@@ -1,10 +1,28 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <title>两弹一星 - 抉择与回响</title>
     <style>
+        /* 允许页面上下滑动 */
+html, body {
+    overflow-y: auto !important;
+    height: auto !important;
+    margin: 0;
+    padding: 0;
+}
+
+/* 暴力隐藏 GitHub Pages 自动生成的页眉、标题和装饰 */
+header, .p-name, .project-name, .project-tagline, .ui-helper {
+    display: none !important;
+    visibility: hidden !important;
+    height: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
         /* 基础重置与全局样式 */
         * {
             margin: 0;
