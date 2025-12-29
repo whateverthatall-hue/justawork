@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <title>两弹一星 - 抉择与回响</title>
     <style>
-        /* 允许页面上下滑动 */
+/* 允许页面上下滑动 */
 html, body {
     overflow-y: auto !important;
     height: auto !important;
@@ -22,7 +22,6 @@ header, .p-name, .project-name, .project-tagline, .ui-helper {
     margin: 0 !important;
     padding: 0 !important;
 }
-
         /* 基础重置与全局样式 */
         * {
             margin: 0;
