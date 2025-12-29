@@ -422,7 +422,7 @@ header, .p-name, .project-name, .project-tagline, .ui-helper {
         <div id="video5-page" class="page video-page">
             <div class="video-container">
                 <video id="video5" autoplay playsinline controls>
-                    <source srchttps://justaworkplace.oss-cn-beijing.aliyuncs.com/3-1-A.mp4" type="video/mp4">
+                    <source srcc="https://justaworkplace.oss-cn-beijing.aliyuncs.com/3-1-A.mp4" type="video/mp4">
                     您的浏览器不支持视频播放
                 </video>
             </div>
